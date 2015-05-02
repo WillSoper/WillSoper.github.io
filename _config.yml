@@ -7,7 +7,7 @@ relative_permalinks: true
 # Setup
 title:               Will Soper
 tagline:             A simple blog for notes
-url:                 http://willsoper.github.io/
+url:                 https://willsoper.github.io/
 paginate:            1
 baseurl:             ""
 
@@ -27,4 +27,4 @@ author:
 # Custom vars
 version:             1.0.0
 github:
-  repo:              http://willsoper.github.io/
+  repo:              https://willsoper.github.io/
