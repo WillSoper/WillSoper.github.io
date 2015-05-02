@@ -6,7 +6,7 @@ relative_permalinks: true
 
 # Setup
 title:               Will Soper
-tagline:             A simple blog for notes
+tagline:             A simple blog for my notes
 url:                 https://willsoper.github.io/
 paginate:            1
 baseurl:             ""
