@@ -24,8 +24,9 @@ I had to make only a few amendments to the basic install, if you're interested i
 ...and that was about it! This was enough to get the blog to a state where I was happy that I could read what I'd written.
 
 ###Editing and Creating pages
-One of the great things about writing content in [markdown](https://help.github.com/articles/markdown-basics/) is that there are a hundred ways in which you can do it. Here are a few that are well suited to using Jekyll and Github, 
+One of the great things about writing content in [markdown](https://help.github.com/articles/markdown-basics/) is that there are a hundred ways in which you can do it.
 
-[mobile blogging](http://joewiz.org/2013/08/18/mobile-blogging-with-jekyll/)
+Here are a few that are well suited to using Jekyll and Github, the most useful information I found these was on [Joe Wicentowski](https://twitter.com/joewiz)'s blog posts on [mobile blogging with jekyll](http://joewiz.org/2013/08/18/mobile-blogging-with-jekyll/) and [blogging in the browser with jekyll](http://joewiz.org/2013/08/20/jekyll-blogging-in-the-browser-with-prose-io/).
 
-[online blogging](http://joewiz.org/2013/08/20/jekyll-blogging-in-the-browser-with-prose-io/)
+- When I'm on an internet connected PC, I use [Prose.io](http://prose.io/) to create and edit blog posts, and commit them directly to GitHub. It supports in browser previewing of your markdown, so you can see what it will look like without setting up your own Jekyll server or publishing it to GitHub, and requires nothing but a browser and providing OAuth access to your GitHub repositiory.
+- When I'm on an iPad or iPhone, I use [Octopage](https://itunes.apple.com/us/app/octopage-blogging-jekyll-markdown/id649843345?mt=8) to connect directly to GitHub, and amend posts or drafts there. It, too, supports previewing of your posts, and OAuth (when Joe wrote his blog post, above, it required that you supply username and password directly to the app - this is no longer the case). It costs £0.79 in the uk, which is less than I spend on a cup of coffee.
