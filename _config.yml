@@ -9,7 +9,7 @@ title:               Will Soper
 tagline:             A simple blog for my notes
 url:                 https://willsoper.github.io/
 paginate:            1
-baseurl:             ""
+baseurl:             "https://willsoper.github.io/"
 
 # Assets
 #
@@ -22,7 +22,7 @@ sass:
 author:
   name:              Will Soper
   url:               https://twitter.com/WillSoper
-  email:             redacted@redacted.com
+  email:             notmyemail@example.com
 
 # Custom vars
 version:             1.0.0
