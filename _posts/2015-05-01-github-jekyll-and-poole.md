@@ -26,3 +26,6 @@ I had to make only a few amendments to the basic install, if you're interested i
 ###Editing and Creating pages
 One of the great things about writing content in [markdown](https://help.github.com/articles/markdown-basics/) is that there are a hundred ways in which you can do it. Here are a few that are well suited to using Jekyll and Github, 
 
+[mobile blogging](http://joewiz.org/2013/08/18/mobile-blogging-with-jekyll/)
+
+[online blogging](http://joewiz.org/2013/08/20/jekyll-blogging-in-the-browser-with-prose-io/)
