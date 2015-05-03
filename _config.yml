@@ -9,7 +9,7 @@ title:               Will Soper
 tagline:             A simple blog for my notes
 url:                 https://willsoper.github.io/
 paginate:            1
-baseurl:             "https://willsoper.github.io/"
+baseurl:             "https://willsoper.github.io"
 
 # Assets
 #
