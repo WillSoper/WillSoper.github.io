@@ -1,5 +1,6 @@
 ---
-published: true
+layout: post
+title: Adventures with a raspberry pi
 ---
 
 ## Adventures with a raspberry pi
