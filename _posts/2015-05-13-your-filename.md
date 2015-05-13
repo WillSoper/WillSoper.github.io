@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 
 ## Adventures with a raspberry pi
