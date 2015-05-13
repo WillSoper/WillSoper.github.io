@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Adventures with a raspberry pi
+title: Adventures with a Raspberry Pi
 ---
 
 I've had a lot of fun with my raspberry pi, and I decided that it would be helpful to write up how I completed each of my projects. 
