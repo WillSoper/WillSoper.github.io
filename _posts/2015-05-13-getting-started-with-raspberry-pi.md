@@ -59,9 +59,28 @@ Once you've assigned a static IP address, you'll always know what your Raspberry
 
 Next up, *connecting to your Pi*.
 
+I'm on Windows, and it doesn't have an SSH client installed by default. My preference is to use tools that don't require much installation or configuration, and so I use the standalone executable version of [PuTTY] (http://www.chiark.greenend.org.uk/~sgtatham/putty/download.html). 
+
+Once you've opened PuTTY - enter the IP address that you assigned to your Pi earlier, and leave Port as 22, and hit open. Provided you have the right IP address, and your Pi is responsive, you should see a 'login as:' prompt.
+
+The default username is 'pi' and the default password is 'raspberry' - the very next step that we need to take is to change that!
+
+###Change default credentials, edit hostname, update
+
+Once you're connected to the Pi, things get a lot easier. The first command you should execute is:
+
+>sudo raspi-config
+
+Here you'll see a simple user interface that allows you to perform some of the most common configuration tasks on your Pi. Select option 2, and change your password. 
+
+You might also want to change the hostname of the Pi - this is it's name on your local network, and also the name that the Pi uses to identify itself when you log on to it using SSH; if you want to change the hostname, it's under (8) Advanced Options and then (A2) Hostname.
+
+Once you've done all that, the next step is to update all of your packages and the Raspbian distribution itself. To do that, execute the following commands:
+
+>sudo apt-get update && sudo apt-get dist-upgrade
+
+This is actually two commands combined, (update and dist-upgrade), if you're interested, you can read more about them by executing `man apt-get`.
 
 
-- Updating
-- DHCP
+(still to come:)
 - WIFI
-- Connecting from a Windows PC
