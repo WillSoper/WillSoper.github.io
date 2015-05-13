@@ -82,5 +82,5 @@ Once you've done all that, the next step is to update all of your packages and t
 This is actually two commands combined, (update and dist-upgrade), if you're interested, you can read more about them by executing `man apt-get`.
 
 
-still to come
+still to come...
 - WIFI
