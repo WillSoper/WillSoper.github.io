@@ -69,7 +69,7 @@ The default username is 'pi' and the default password is 'raspberry' - the very 
 
 Once you're connected to the Pi, things get a lot easier. The first command you should execute is:
 
->sudo raspi-config
+> sudo raspi-config
 
 Here you'll see a simple user interface that allows you to perform some of the most common configuration tasks on your Pi. Select option 2, and change your password. 
 
@@ -77,10 +77,10 @@ You might also want to change the hostname of the Pi - this is it's name on your
 
 Once you've done all that, the next step is to update all of your packages and the Raspbian distribution itself. To do that, execute the following commands:
 
->sudo apt-get update && sudo apt-get dist-upgrade
+> sudo apt-get update && sudo apt-get dist-upgrade
 
 This is actually two commands combined, (update and dist-upgrade), if you're interested, you can read more about them by executing `man apt-get`.
 
 
-(still to come:)
+still to come
 - WIFI
