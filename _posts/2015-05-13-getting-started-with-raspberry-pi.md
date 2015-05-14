@@ -3,6 +3,7 @@ layout: post
 title: Getting started with Raspberry Pi
 ---
 This is part of a series of posts detailing my adventures with a raspberry pi. [You can find the whole series here.]({% post_url 2015-05-13-adventures-with-a-raspberry-pi %})
+
 ##What you'll need:
 
 - Raspberry Pi (I'm using the version 2)
@@ -17,9 +18,9 @@ You *might* need the following, it depends how adventurous you're feeling (it wo
 
 I've also used the following software, because I'm on Windows:
 
-- [Raspbian image] (https://www.raspberrypi.org/downloads/) 
+- [Raspbian image](https://www.raspberrypi.org/downloads/) 
 - [Win32DiskImager](http://sourceforge.net/projects/win32diskimager/)
-- [PuTTY] (http://www.chiark.greenend.org.uk/~sgtatham/putty/download.html)
+- [PuTTY](http://www.chiark.greenend.org.uk/~sgtatham/putty/download.html)
 
 I explain what each software tool is as it is used in the guide.
 
