@@ -2,7 +2,7 @@
 layout: post
 title: Getting started with Raspberry Pi
 ---
-This is part of a series of posts detailing my adventures with a raspberry pi. [You can find the whole series here.]({% post_url 2015-05-13-adventures-with-raspberry-pi %})
+This is part of a series of posts detailing my adventures with a raspberry pi. [You can find the whole series here.]({% post_url 2015-05-13-adventures-with-a-raspberry-pi %})
 ##What you'll need:
 
 - Raspberry Pi (I'm using the version 2)
