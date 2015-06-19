@@ -77,7 +77,7 @@ The default username is `pi` and the default password is `raspberry` - the very 
 
 Once you're connected to the Pi, things get a lot easier. If you're not met with a blue and grey configuration screen already, then the first command you should execute is:
 
-> sudo raspi-config
+> `sudo raspi-config`
 
 Here you'll see a simple user interface that allows you to perform some of the most common configuration tasks on your Pi. This screen will open by default the first time that you boot a new Raspberry Pi. 
 
@@ -87,7 +87,7 @@ You might also want to change the hostname of the Pi - this is it's name on your
 
 Once you've done all that, the next step is to update all of your packages and the Raspbian distribution itself. To do that, execute the following commands:
 
-> sudo apt-get update && sudo apt-get dist-upgrade
+> `sudo apt-get update && sudo apt-get dist-upgrade`
 
 This is actually two commands combined, (update and dist-upgrade), if you're interested, you can read more about them by executing `man apt-get`, but in a nutshell they make sure that you've got all the latest versions of the default software; it's important to do that now, because those updates will include security fixes.
 
@@ -105,9 +105,9 @@ We used a wired ethernet connection above to get connected to the Pi, but Raspbi
 
 Add the following at the bottom of the file:
 
-> network={
+> `network={
     ssid="Your_WiFi_SSID"
-    psk="Your_WiFi_password"
+    psk="Your_WiFi_password"`
 }
 
 ...and save the file (**ctrl+x** then **y** then **enter**). It's probably simplest to reboot at this point, with `sudo reboot`.
