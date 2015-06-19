@@ -105,12 +105,12 @@ We used a wired ethernet connection above to get connected to the Pi, but Raspbi
 
 Add the following at the bottom of the file:
 
-<code>
+{% highlight html %}
 network={
     ssid="Your_WiFi_SSID"
     psk="Your_WiFi_password"`
 }
-</code>
+{% endhighlight %}
 
 ...and save the file (**ctrl+x** then **y** then **enter**). It's probably simplest to reboot at this point, with `sudo reboot`.
 
