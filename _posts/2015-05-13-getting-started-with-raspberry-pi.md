@@ -97,11 +97,11 @@ We used a wired ethernet connection above to get connected to the Pi, but Raspbi
 
 - If you don't know the name of your Wi-Fi SSID, you can list all SSIDs in range with this command:
 
-> sudo iwlist wlan0 scan | grep ESSID
+> `sudo iwlist wlan0 scan | grep ESSID`
 
 - To configure your Wi-Fi credentials, edit the wpa-supplicant config file:
 
-> sudo nano /etc/wpa_supplicant/wpa_supplicant.conf
+> `sudo nano /etc/wpa_supplicant/wpa_supplicant.conf`
 
 Add the following at the bottom of the file:
 
