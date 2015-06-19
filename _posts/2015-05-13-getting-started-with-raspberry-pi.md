@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Getting started with Raspberry Pi
-published: false
+published: true
 ---
 
 This is part of a series of posts detailing my adventures with a raspberry pi. [You can find the whole series here.]({% post_url 2015-05-13-adventures-with-a-raspberry-pi %})
