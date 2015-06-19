@@ -10,9 +10,9 @@ Find the right NTP pool servers for your location on the [NTP Pool Project](http
 
 Edit your `/etc/ntp.conf` file, and replace the list of servers there with the ones that you found on the NTP Pool Project:
 
-> server 0.uk.pool.ntp.org iburst
+> <pre>server 0.uk.pool.ntp.org iburst
 server 1.uk.pool.ntp.org iburst
 server 2.uk.pool.ntp.org iburst
-server 3.uk.pool.ntp.org iburst
+server 3.uk.pool.ntp.org iburst</pre>
 
 Restart the NTP daemon with `sudo /etc/init.d/ntp restart`, and then check the time is correct with the `date` command - it might take a few minutes to straighten itself out.
