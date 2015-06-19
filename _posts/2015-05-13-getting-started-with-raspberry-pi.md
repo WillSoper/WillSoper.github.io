@@ -67,7 +67,7 @@ Once you've assigned a static IP address, you'll always know what your Raspberry
 
 ###Connecting to your Pi with SSH
 
-I'm on Windows, and it doesn't have an SSH client installed by default. My preference is to use tools that don't require much installation or configuration, and so I use the standalone executable version of [PuTTY] (http://www.chiark.greenend.org.uk/~sgtatham/putty/download.html). 
+I'm on Windows, and it doesn't have an SSH client installed by default. My preference is to use tools that don't require much installation or configuration, and so I use the standalone executable version of [PuTTY](http://www.chiark.greenend.org.uk/~sgtatham/putty/download.html). 
 
 Once you've opened PuTTY - enter the IP address that you found for your raspberry pi earlier (if you haven't yet rebooted, then remember it will still be the initial IP address, not the static one that you chose),  leave Port as 22, and hit open. Provided you have the right IP address, and your Pi is responsive, you should see a `login as:` prompt.
 
