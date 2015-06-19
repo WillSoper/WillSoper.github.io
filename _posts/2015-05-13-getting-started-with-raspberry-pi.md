@@ -108,7 +108,7 @@ Add the following at the bottom of the file:
 {% highlight js %}
 network={
     ssid="Your_WiFi_SSID"
-    psk="Your_WiFi_password"`
+    psk="Your_WiFi_password"
 }
 {% endhighlight %}
 
