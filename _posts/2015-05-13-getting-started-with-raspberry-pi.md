@@ -105,7 +105,7 @@ We used a wired ethernet connection above to get connected to the Pi, but Raspbi
 
 Add the following at the bottom of the file:
 
-{% highlight html %}
+{% highlight js %}
 network={
     ssid="Your_WiFi_SSID"
     psk="Your_WiFi_password"`
