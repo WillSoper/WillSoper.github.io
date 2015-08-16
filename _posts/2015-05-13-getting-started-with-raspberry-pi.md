@@ -6,9 +6,6 @@ tags:
 - raspberrypi
 ---
 
-
-This is part of a series of posts detailing my adventures with a raspberry pi. [You can find the whole series here.]({% post_url adventures-with-a-raspberry-pi %})
-
 ##What you'll need:
 
 - Raspberry Pi (I'm using the version 2)
