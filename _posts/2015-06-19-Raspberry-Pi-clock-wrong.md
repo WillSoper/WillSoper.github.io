@@ -2,6 +2,8 @@
 layout: post
 title: What to do if your Raspberry Pi has the wrong time
 published: true
+tags:
+- raspberrypi
 ---
 
 Theoretically, your Raspberry Pi should set itself to the right time automatically using NTP (Network Time Protocol); however for me that hasn't worked on a number of occasions. I think it fails to sync correctly when the internal clock is too far adrift from the time reported by the NTP server, but anyway, this is how to fix it.
