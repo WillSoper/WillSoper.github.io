@@ -5,7 +5,7 @@ published: true
 tags:
 - raspberrypi
 ---
-This is part of a series of posts detailing my adventures with a raspberry pi. [You can find the whole series here.]({% post_url 2015-05-13-adventures-with-a-raspberry-pi %})
+This is part of a series of posts detailing my adventures with a raspberry pi. [You can find the whole series here.]({% post_url adventures-with-a-raspberry-pi %})
 
 This is quite a short post, but hopefully a helpful one!
 
