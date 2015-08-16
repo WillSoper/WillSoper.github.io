@@ -16,8 +16,8 @@ I've written a short AutoHotKey script to do this (if you've never used AutoHotK
 
 The script does two things:
 
-1) Pressing the Play/Pause media key on the keyboard will play or pause any Pluralsight Player window that's currently open, and will then return the window focus immediately to the current window
-2) Pressing Ctrl+Play/Pause will rewind the tutorial by 8 seconds, and then return the focus to the current window
+ 1) Pressing the Play/Pause media key on the keyboard will play or pause any Pluralsight Player window that's currently open, and will then return the window focus immediately to the current window
+ 2) Pressing Ctrl+Play/Pause will rewind the tutorial by 8 seconds, and then return the focus to the current window
 
 Here's the script:
 
