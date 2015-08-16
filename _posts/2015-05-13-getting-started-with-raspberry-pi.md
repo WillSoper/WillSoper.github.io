@@ -2,6 +2,8 @@
 layout: post
 title: Getting started with Raspberry Pi
 published: true
+tags:
+- raspberrypi
 ---
 
 

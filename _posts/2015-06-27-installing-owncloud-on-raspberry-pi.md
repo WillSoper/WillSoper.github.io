@@ -2,6 +2,8 @@
 layout: post
 title: Installing OwnCloud on a Raspberry Pi
 published: false
+tags:
+- raspberrypi
 ---
 
 I got tired of manually managing my backups on multiple hard disks, and constantly forgetting to put files that I wanted to share on multiple computers in to DropBox. 
