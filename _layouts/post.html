@@ -7,7 +7,7 @@ layout: default
   <time datetime="{{ page.date | date_to_xmlschema }}" class="post-date">{{ page.date | date_to_string }}</time>
   {{ content }}
   
-	{% if page.tags contains raspberrypi %}
+	{% if page.tags contains 'raspberrypi' %}
 	<p>>This post is part of a series on projects that I've done with a Raspberry Pi. To see more... (tbc)</p>
 	{% else %}
 	<p>No Pi tag</p>
