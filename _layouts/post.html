@@ -8,7 +8,7 @@ layout: default
   {{ content }}
   
 	{% if page.tags contains 'raspberrypi' %}
-	<p class="message">This post is part of a series on projects that I've done with a Raspberry Pi. Why not read some other [Raspberry Pi related posts](/adventures-with-a-raspberry-pi/)?</p>
+	<p class="message">This post is part of a series on projects that I've done with a Raspberry Pi. Why not read some other [Raspberry Pi related posts]({% post_url adventures-with-a-raspberry-pi %})?</p>
 	{% else %}
 	<p>No Pi tag</p>
 	{% endif %}
