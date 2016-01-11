@@ -38,6 +38,7 @@ Here are a few that are well suited to using Jekyll and Github, the most useful 
 It took me longer to write this blog post than it did to get GitHub, Jekyll and Poole all working together seamlessly. Apart from the £0.79 I spent on an iPhone app (which I really didn't have to do), it has cost me nothing. I started with no knowledge of any of the tools that I ended up using (I know git, but didn't even have a GitHub account setup when I started), and I'm happy with the result! What's even better is that everything I've used is open source - so if I want to change it to do something different, I can - and if I decide to do something totally different, all of my content is stored in simple markdown, which I can take anywhere! 
 
 **Updates**:
+
 - I'm thinking about moving my blog from GitHub and hosting it myself in the future; now that I'm happy with using Jekyll, and I like this format of blogging, it feels worth it to move for a few reasons:
 
 1) *GitHub already recommends that you test your compilation of your site using Jekyll locally, and I've had a build error that took me ages to work out because they don't really give you much information in the event that a build fails.*
