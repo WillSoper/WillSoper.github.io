@@ -40,13 +40,13 @@ It took me longer to write this blog post than it did to get GitHub, Jekyll and 
 **Updates**:
 - I'm thinking about moving my blog from GitHub and hosting it myself in the future; now that I'm happy with using Jekyll, and I like this format of blogging, it feels worth it to move for a few reasons:
 
-    *1) GitHub already recommends that you test your compilation of your site using Jekyll locally, and I've had a build error that took me ages to work out because they don't really give you much information in the event that a build fails.*
+1) *GitHub already recommends that you test your compilation of your site using Jekyll locally, and I've had a build error that took me ages to work out because they don't really give you much information in the event that a build fails.*
     
-    *2) I always feel kinda weird that the first time I find out whether the post works exactly in the way that I expected is when I actually publish it live!*
+2) *I always feel kinda weird that the first time I find out whether the post works exactly in the way that I expected is when I actually publish it live!*
     
-    *3) If I'm going to the effort of putting together my own Jekyll build process, I might as well publish the __exact__ output that it produces to a cheap static hosting site, and do away with needing to publish all of my blog posts publicly on GitHub!*
+3) *If I'm going to the effort of putting together my own Jekyll build process, I might as well publish the __exact__ output that it produces to a cheap static hosting site, and do away with needing to publish all of my blog posts publicly on GitHub!*
     
-    With all that said - there's a lot good about GitHub Pages, and I'm sticking with it until I get stuck on a rainy day and need a project to move! Expect a new blog post as and when I do that. 
+With all that said - there's a lot good about GitHub Pages, and I'm sticking with it until I get stuck on a rainy day and need a project to move! Expect a new blog post as and when I do that. 
           
 - I don't really use Prose.io so much anymore, mainly because I like to be able to work locally and in a disconnected way. I find it much more natural to be able to start working on a blog post and write it in a couple of sittings on my local machine, than to commit a half written post with the 'published: false' flag to GitHub.
 
