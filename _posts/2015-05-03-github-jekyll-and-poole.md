@@ -28,8 +28,28 @@ One of the great things about writing content in [markdown](https://help.github.
 
 Here are a few that are well suited to using Jekyll and Github, the most useful information I found these was on [Joe Wicentowski](https://twitter.com/joewiz)'s blog posts on [mobile blogging with jekyll](http://joewiz.org/2013/08/18/mobile-blogging-with-jekyll/) and [blogging in the browser with jekyll](http://joewiz.org/2013/08/20/jekyll-blogging-in-the-browser-with-prose-io/).
 
+<div class="message">
+    **NB**: see updates below, my  tools have changed since this was first published!
+</div>
 - When I'm on an internet connected PC, I use [Prose.io](http://prose.io/) to create and edit blog posts, and commit them directly to GitHub. It supports in browser previewing of your markdown, so you can see what it will look like without setting up your own Jekyll server or publishing it to GitHub, and requires nothing but a browser and providing OAuth access to your GitHub repositiory.
 - When I'm on an iPad or iPhone, I use [Octopage](https://itunes.apple.com/us/app/octopage-blogging-jekyll-markdown/id649843345?mt=8) to connect directly to GitHub, and amend posts or drafts there. It, too, supports previewing of your posts, and OAuth (when Joe wrote his blog post, above, it required that you supply username and password directly to the app - this is no longer the case). It costs £0.79 in the uk, which is less than I spend on a cup of coffee.
 
 ###Fast and simple
 It took me longer to write this blog post than it did to get GitHub, Jekyll and Poole all working together seamlessly. Apart from the £0.79 I spent on an iPhone app (which I really didn't have to do), it has cost me nothing. I started with no knowledge of any of the tools that I ended up using (I know git, but didn't even have a GitHub account setup when I started), and I'm happy with the result! What's even better is that everything I've used is open source - so if I want to change it to do something different, I can - and if I decide to do something totally different, all of my content is stored in simple markdown, which I can take anywhere! 
+
+**Updates**:
+- I'm thinking about moving my blog from GitHub and hosting it myself in the future; now that I'm happy with using Jekyll, and I like this format of blogging, it feels worth it to move for a few reasons:
+
+    *1) GitHub already recommends that you test your compilation of your site using Jekyll locally, and I've had a build error that took me ages to work out because they don't really give you much information in the event that a build fails.*
+    
+    *2) I always feel kinda weird that the first time I find out whether the post works exactly in the way that I expected is when I actually publish it live!*
+    
+    *3) If I'm going to the effort of putting together my own Jekyll build process, I might as well publish the __exact__ output that it produces to a cheap static hosting site, and do away with needing to publish all of my blog posts publicly on GitHub!*
+    
+    With all that said - there's a lot good about GitHub Pages, and I'm sticking with it until I get stuck on a rainy day and need a project to move! Expect a new blog post as and when I do that. 
+          
+- I don't really use Prose.io so much anymore, mainly because I like to be able to work locally and in a disconnected way. I find it much more natural to be able to start working on a blog post and write it in a couple of sittings on my local machine, than to commit a half written post with the 'published: false' flag to GitHub.
+
+- Instead of Prose.io, when I'm on my own PC, I use VS Code. You can [read more about editing and previewing Markdown in VS Code](https://code.visualstudio.com/Docs/languages/markdown) on the VS Code website directly. It supports live previewing, and although the default theme doesn't look a lot like my website, it allows me to check that my Markdown is valid and does what I expected before publishing which is all I need. If you need to see how your post will look, you can link to a custom css file (there are steps on the page that I linked to).
+
+- I don't really publish blog posts from my iPhone, so whilst the Octopage app is still installed (and I'm sure I'll use it occasionally in the future), instead I prefer to write down ideas and drafts in [OneNote](https://itunes.apple.com/gb/app/microsoft-onenote-lists-photos/id410395246?mt=8), and then write them up properly on my PC.
