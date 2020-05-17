@@ -29,7 +29,7 @@ For roles that *are* being advertised already, the people you know can also be h
    
 If you're just starting out in your career then this might be more tricky, but do check whether you know anyone that could help before skipping this one... did you go to college/university with anyone who could help?
 
-Even if you didn't know them very well, just some level of familiarity will really help. Big brands spend billions every year on advertising campaigns, some of which exist purely to bring that sense of familiarty so that you'll feel more drawn when you next see their logo and packaging - even if you've never tried their product you're more likely to buy one that you have heard of. This same effect can work in your favour when looking for a new role.
+Even if you didn't know them very well, just some level of familiarity will really help. Big brands spend billions every year on advertising campaigns, some of which exist purely to bring that sense of familiarity so that you'll feel more drawn when you next see their logo and packaging - even if you've never tried their product you're more likely to buy one that you have heard of. This same effect can work in your favour when looking for a new role.
 
 Don't overcomplicate this. Your message can be as short as this:
 
