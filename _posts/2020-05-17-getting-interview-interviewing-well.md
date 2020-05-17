@@ -135,49 +135,49 @@ The most common theme I've seen is that people are often very unprepared for an 
    Keep this mind map, review it immediately before your interview to make sure it's fresh in your mind. When the interviewer says "Can you think of a time when..." now you definitely can.
 
 6) **Think of questions to ask**
-   
-   Find questions that you are really interested in hearing the answer to, and especially ones that might spark a conversation. Don't forget that you can start with the list of things you couldn't answer when doing your research about the company.
-
-   Here are some ideas of types of questions you might ask, in case you're stuck:
-
-   - The company more generally
-   - The industry this company is in
-   - This role within the company
-   - Projects you might work on
-   - Logistical/practical questions about facilities
-   - Processes they use
-   - Your line manager, their experience and their goals
-
-   Again, write these down so that you can review them, and take them with you so that you can look at them immediately before the interview. Don't put your faith in your memory because, in the stress of an interview, these will all vanish.
-   
-   Maybe you already realise this, but many people seem not to; you are interviewing **them** as much as they are interviewing **you**, and you need to make your own decision as to whether this role is right for you. 
-
-   Once you get to interview, if you ask a question that's anything more than just a general conversation starter, write down the answer! If nothing else it shows you're interested, but also it's really hard to recall everything that was said after an interview. If you go through to another stage then all of this can be joined together with your own research to build your knowledge of the company and the position you're applying for.
-   
-7)  **Practice** 
     
+    Find questions that you are really interested in hearing the answer to, and especially ones that might spark a conversation. Don't forget that you can start with the list of things you couldn't answer when doing your research about the company.
+    
+    Here are some ideas of types of questions you might ask, in case you're stuck:
+    
+    - The company more generally
+    - The industry this company is in
+    - This role within the company
+    - Projects you might work on
+    - Logistical/practical questions about facilities
+    - Processes they use
+    - Your line manager, their experience and their goals
+    
+    Again, write these down so that you can review them, and take them with you so that you can look at them immediately before the interview. Don't put your faith in your memory because, in the stress of an interview, these will all vanish.
+    
+    Maybe you already realise this, but many people seem not to; you are interviewing **them** as much as they are interviewing **you**, and you need to make your own decision as to whether this role is right for you. 
+    
+    Once you get to interview, if you ask a question that's anything more than just a general conversation starter, write down the answer! If nothing else it shows you're interested, but also it's really hard to recall everything that was said after an interview. If you go through to another stage then all of this can be joined together with your own research to build your knowledge of the company and the position you're applying for.
+   
+7)  **Practice**
+
     If you want to practice getting nervous, try having two cups of coffee on an empty stomach and waiting half an hour. You'll get a dry mouth, a strange feeling in your stomach, and an elevated heart rate. It's not the same, but it's as close as I can get you. Watch what your body and mind do, see if you can find ways to work with them in this state.
     
     Ask friends or family to interview you - let them pick questions at random from the internet! You're unlikely to be able to guess the exact questions that you'll be asked at interview, but just getting in the habit of recalling all of your examples and putting them in to a coherent answer is what you need to practice.
     
-    Apply for roles that you're not sure that you even want. 
+    Apply for roles that you're not sure that you even want.
     
     Never waste people's time by applying for a role that you definitely wouldn't take, but if there's one that's borderline give it a go! If you get to interview stage, then you're getting free interview experience, and that will help. You can take the pressure off yourself by remembering that you haven't decided whether to take the role yet.
-
+    
     Interview other people. If you don't normally get involved in interviews, and there's any opportunity to do this then jump at it. You'll start to understand the process much, much more.
 
-8)   **Physically prepare yourself** 
+8)  **Physically prepare yourself**
 
-      Make sure you leave the house with **all** your clothes on. I find this is a great way to avoid living out your worst nightmares. Here are a few other tips to avoid being dramatically under prepared.
-      
-      If you're going to have a telephone interview first (which you very often will), make sure you can find a quiet corner which has mobile phone reception! You'd be surprised how often people start a telephone interview and then realise they don't have good signal in their chosen spot.
-
-      Whatever the interview type, make sure you have these:
-
-      - The mind map of your personal experience you drew up earlier, to review on your own before you go in
-      - Your list of questions for the interviewer
-      - A pen and paper or notebook to make notes (especially for responses to your brilliant questions!)
-      - Appropriate clothing; if in doubt, dress smarter (and check you have all of it)
+    Make sure you leave the house with **all** your clothes on. I find this is a great way to avoid living out your worst nightmares. Here are a few other tips to avoid being dramatically under prepared.
+    
+    If you're going to have a telephone interview first (which you very often will), make sure you can find a quiet corner which has mobile phone reception! You'd be surprised how often people start a telephone interview and then realise they don't have good signal in their chosen spot.
+    
+    Whatever the interview type, make sure you have these:
+    
+    - The mind map of your personal experience you drew up earlier, to review on your own before you go in
+    - Your list of questions for the interviewer
+    - A pen and paper or notebook to make notes (especially for responses to your brilliant questions!)
+    - Appropriate clothing; if in doubt, dress smarter (and check you have all of it)
         
 9)  **Check the arrangements** 
     
@@ -197,7 +197,7 @@ The most common theme I've seen is that people are often very unprepared for an 
 
 ## How to interview. The easy (but stressful) bit.
 
-1)  **Try your best to make it feel like a regular conversation** 
+10)  **Try your best to make it feel like a regular conversation** 
 
      If you've never interviewed another person before - believe me when I tell you that the first time you do, you'll likely feel a sense of terror that will make applying for a new role seem like a walk in the park.
 
@@ -215,7 +215,7 @@ The most common theme I've seen is that people are often very unprepared for an 
 
        A good response if you're not certain but you *think* you know is to say exactly that! "If I were in a real life situation I would check this because I'm not certain, but this is my best guess...."
     
-2)  **Ask for feedback** 
+11)  **Ask for feedback** 
 
       If you're ready for it; this one's entirely optional and won't always be successful. Don't ask for feedback because you think it's a clever thing to do, and definitely don't ask "So, when do I start?!" even though it's a joke. It's incredibly awkward to know how to respond to a joke like this.
 
