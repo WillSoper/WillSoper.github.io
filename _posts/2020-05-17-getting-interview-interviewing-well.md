@@ -41,7 +41,7 @@ Writing long things is easy, writing short things is hard. That's why you're goi
       
 Always remember: if you don't do the editing, then your reader will. They'll get bored and skip things, and you can guarantee they'll skip the good bits!
 
-Keep your CV interesting by talking about things that directly relate to the job you're applying for. This is easier than it sounds, and you shouldn't try to overcomplicate things; **use the job description** and make sure that you show them that you can meet as many of the requirements they ask for as possible. Do that by telling them specifically that you can or already have done things that they list.
+Keep your CV interesting by talking about things that directly relate to the job you're applying for. This is easier than it sounds, and you shouldn't try to overcomplicate things; **use the job description** and make sure that you show them that you can meet as many of the requirements they ask for as possible. Do that by telling them specifically that you can, or ideally already have, done things that they need.
 
 If you're ready to get fancy with this, then come back to your CV after you've read the section on research further on. You might find some extra tools or techniques that this company uses - adding a couple of things that they didn't even ask for (but they do need) which you have experience in would be a big bonus.
 
@@ -81,9 +81,9 @@ If you're really struggling, use the section below on research, and see if you c
       
 Skimming the website of the company you're talking to is expected - and in the same way nobody ever said *"WOW! That candidate turned up on time, they must be badass at travelling!"* it is unlikely they will be impressed that you skilfully found their customer facing website using your internet skills.
 
-First, make sure you learn about what this business actually does; if it's a "business to business" product in an industry you don't know then this might be tricky to start with, but keep researching any terms on their website which you don't understand, and you'll get there - write down the bits you get stuck on.
+First, make sure you learn about what this business actually does. If it's a "business to business" product in an industry you don't know then this might be tricky to start with, but start by researching any terms on their website which you don't understand, and you'll get there. Write down the bits you get stuck on - we'll come back to those.
 
-If they have a consumer facing product you can sign up for - sign up and use it before you go any further!
+If they have a consumer facing product you can sign up for then make sure you use it before you go any further!
 
 Next, try to figure out how their products are built. Some of it will be listed in the job description, but you never know what else you might find; try using a site like builtwith and see what kinds of tools you uncover on their public website and DNS entries; you'll normally at least be able to figure out where it's hosted and the primary technologies used to build the site. This is harder for larger companies because normally the answer is that they use pretty much everything, but give it a go.
    
@@ -158,13 +158,13 @@ Once you get to interview, if you ask a question that's anything more than just 
 
 If you want to practice getting nervous, try having two cups of coffee on an empty stomach and waiting half an hour. You'll get a dry mouth, a strange feeling in your stomach, and an elevated heart rate. It's not the same, but it's as close as I can get you. Watch what your body and mind do, see if you can find ways to work with them in this state.
     
-Ask friends or family to interview you - let them pick questions at random from the internet! You're unlikely to be able to guess the exact questions that you'll be asked at interview, but just getting in the habit of recalling all of your examples and putting them in to a coherent answer is what you need to practice.
+Ask friends or family to interview you. Let them pick questions at random from the internet! It really doesn't matter the type of questions that they ask, just getting in the habit of recalling all of your examples and putting them in to a coherent answer is all that you need to practice.
     
-Apply for roles that you're not sure that you even want.
+Apply for roles that you're not sure you even want.
     
 Never waste people's time by applying for a role that you definitely wouldn't take, but if there's one that's borderline give it a go! If you get to interview stage, then you're getting free interview experience, and that will help. You can take the pressure off yourself by remembering that you haven't decided whether to take the role yet.
     
-Interview other people. If you don't normally get involved in interviews, and there's any opportunity to do this then jump at it. You'll start to understand the process much, much more.
+> This might not be immediately possible if you're already searching for a new role, but if you ever get the chance, get involved with interviewing other people. You'll start to understand the process much, much more. Just ask your line manager whether it'd be okay for you to be involved as part of your personal development - they can say no if they like, but you should definitely ask.
 
 **Physically prepare yourself**
 
@@ -183,17 +183,19 @@ Whatever the interview type, make sure you have these:
     
 Really check them. Check them all three times. 
     
-If you're calling them, make sure you know the phone number, and make sure it has all the digits (count them) a long time before you need to call. Make sure you know the time, and don't have any time zone mishaps! If you're going for an in person interview, make sure the postcode or directions you've been given are right. Don't just type the name of the company in to Google Maps and go wherever it sends you.
+If you're calling them, make sure you know the phone number, and make sure it has all the digits (count them) a long time before you need to call. Make sure you know the time, and don't have any time zone mishaps. 
+
+> The section below might be less relevant during COVID-19, but I'll leave it in because it'll be useful one day soon.
+
+If you're going for an in person interview, make sure the postcode or directions you've been given are right. Don't just type the name of the company in to Google Maps and go wherever it sends you.
 
 I've hired people after they went to the wrong location; they got the job because they're great at what they do, but I can guarantee they spent the entire interview feeling like they'd blown their chance by going to the wrong place - nobody feels good under pressure like that.
-
-> This section below might be less relevant during COVID-19, but I'll leave it in because it'll be useful one day soon!
 
 If it's possible for you, make the journey to your interview location a few days in advance, and if possible at roughly the same time you'll be going there to see what you find. This gives you a better idea about how much time you should allow for getting to your interview, and it also will show you what your new commute might look like!
 
 Try to find somewhere nearby where you can sit quietly out of the way to review your interview prep - perhaps a nearby coffee shop or, if you're driving, a car park that's within a few minutes drive. On the actual day allow yourself an extra half an hour or so to sit in your nearby spot before the interview so that you can really get prepared. I like to do this very nearby so that I can be confident nothing can delay me - and this extra time for preparing acts as my contingency in case of some kind of travel disaster!
 
-Now you're nearby and early, make sure you arrive no more than 10 minutes early. Please don't be any earlier, it's horrible for the interviewer and awkward for you to, especially if you forgot all your clothes.
+Now you're nearby and early, make sure you arrive no more than 10 minutes early. Please don't be any earlier, it's horrible for the interviewer and awkward for you too, especially if you forgot all your clothes.
 
 ## 3: How to interview. The easy (but stressful) bit.
 
@@ -207,7 +209,7 @@ To judge whether your answers are long or short, you can imagine you're talking 
 
 Make sure you listen carefully.
 
-If you get asked a particularly complicated question, consider writing it down before you answer. This will give you a little time in which to start thinking about your response, and also will give you something to check if you feel like you're rambling and not really answering the question. It's very common for people to give a really interesting anecdote in response to a question and then forget why - and they always look uncomfortable when they have to ask "sorry, what was the question?"
+If you get asked a particularly complicated question, consider writing it down before you answer. This will give you a little time in which to start thinking about your response, and also gives you something to check back on if you feel like you're not really answering the question. It's very common for people to give a really interesting anecdote in response to a question and then forget why - and they always look uncomfortable when they have to ask "sorry, what was the question?"
 
 Remember that you can pause to think! Don't be afraid to say "let me have a think about that for a second..." before giving your answer if it helps you. If you're trying to work out which of your examples is the best one to give - it's okay to say that, too: "I've had a couple of times where that's happened, I'm just trying to work out which is the most relevant here...." is totally fine.
 
@@ -219,7 +221,7 @@ A good response if you're not certain but you *think* you know is to say exactly
 
 If you're ready for it; this one's entirely optional and won't always be successful. Don't ask for feedback because you think it's a clever thing to do, and definitely don't ask "So, when do I start?!" even though it's a joke. It's incredibly awkward to know how to respond to a joke like this.
 
-If you're going to ask for feedback, try to ask a very specific question. Rather than a very general "could you give me any feedback?" ask something like this: "if there were one area of my experience that you would improve to make me more ready for this role, what would it be?". 
+If you're going to ask for feedback, try to ask a very specific question. Rather than a very general "could you give me any feedback?" ask something like this: "if there were one area of my experience that you would improve to make me more ready for this role, what would it be?" 
       
 By framing the question in this way, you remove their awkwardness about highlighting something that you could improve (which could be considered a negative). Instead, they have to just pick the one that needs improvement the most - and they can comfort themselves with words like "but really, I'm nit-picking... and you did fine on that..." and now you'll know where you should focus some of your attention next time when preparing.
 
