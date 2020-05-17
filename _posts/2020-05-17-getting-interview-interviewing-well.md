@@ -9,13 +9,13 @@ I've interviewed hundreds of developers over the years, and have been successful
 
 This article is about all the parts of the process that I think are **most often overlooked** which you can learn and practice. To clarify with an example; I don't talk about coding interviews here, but that's because most people think about them already. I do talk about interview preparation at length because whilst people know about this, they seem not to do anything about it, and I have practical advice that would help.
 
-I've written it now because I know lots of folks are being forced to look for new roles unexpectedly due to COVID-19. I can't offer anyone a job, but I might be able to help you do better in your search.
+I've written this now because I know lots of folks are being forced to look for new roles unexpectedly due to COVID-19. I can't offer anyone a job, but I might be able to help you do better in your search.
 
-Fair warning - this is a long article! I considered splitting it in to multiple smaller ones, but there's a kind of circular dependency between your research for an interview and the actual process of getting an interview; you can use some of your preparation to improve your CV, but you might not want to go quite so indepth before you're at interview stage, so I think it's better all together, and worth bearing that cycle in mind as you read.
+Fair warning - this is a long article! I considered splitting it in to multiple smaller ones, but there's a kind of circular dependency between your research for an interview and the actual process of getting an interview. You may find your research can improve your CV before applying, if you have the time for that.
 
 There are three sections; how to get an interview, how to research and prepare, and how to interview. The final section is the shortest because, like most things in life, good preparation will make the actual process much, much easier. 
 
-The most common theme I've seen is that people are often very unprepared for an interview (perhaps because they're not sure what things they can prepare) so there's a lot of detail in that section, but let's start a few steps before even that. Your very first touchpoints with a business can strongly stack the odds for or against you, long before you've even arrived.
+The most common theme I've seen is that people are often surprisingly unprepared for an interview (perhaps because they're not sure what things they can do to prepare) so there's a lot of detail in that section, but let's start a few steps before even that. Your very first touchpoint with a business can strongly stack the odds for or against you, long before you've even arrived.
 
 ## 1: How to get an interview, and improve your chances while you do.
 
@@ -109,7 +109,7 @@ This is all about improving your chances - and if you get the chance to use some
    
 I'm going to suggest that you flip your interview preparation upside down.
    
-You know that you're going to get asked questions about your experiences, but there's just no way to know which questions. Focus on the experience rather than the questions when preparing and you'll be much better prepared. Most situations that you've encountered will probably fit multiple questions that an interviewer might ask if you think carefully about them.
+You know that you're going to get asked questions about your experiences, but there's just no way to know which questions. Focus on your experiences rather than their questions when preparing and you'll be much better prepared. Most situations that you've encountered will probably fit multiple questions that an interviewer might ask if you think carefully about them.
    
 Most people try to do this on the spot when asked, and will inevitably remember all their best examples ten minutes after leaving the interview. Here's a useful technique to avoid that.
    
@@ -187,7 +187,7 @@ If you're calling them, make sure you know the phone number, and make sure it ha
 
 I've hired people after they went to the wrong location; they got the job because they're great at what they do, but I can guarantee they spent the entire interview feeling like they'd blown their chance by going to the wrong place - nobody feels good under pressure like that.
 
-    > This section below might be less relevant during COVID-19, but I'll leave it in because it'll be useful one day soon!
+> This section below might be less relevant during COVID-19, but I'll leave it in because it'll be useful one day soon!
 
 If it's possible for you, make the journey to your interview location a few days in advance, and if possible at roughly the same time you'll be going there to see what you find. This gives you a better idea about how much time you should allow for getting to your interview, and it also will show you what your new commute might look like!
 
