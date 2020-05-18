@@ -21,7 +21,7 @@ The most common theme I've seen is that people are often surprisingly unprepared
 
 **The best jobs are not (yet) advertised.**
    
-If you're good at what you do, companies that are growing will do everything they can to open a role for you even if they're not actively recruiting. If they open a role with you in mind, you don't have to be a mathemetician to work out that you probably have better odds of getting that role!
+If you're good at what you do, companies that are growing will do everything they can to open a role for you even if they're not actively recruiting. If they open a role with you in mind, you don't have to be a mathematician to work out that you probably have better odds of getting that role!
    
 Make sure you contact former colleagues and people you know to see if they know of any positions open. If they're about to start hiring, you might be able to skip the queue and apply before they've even opened the role.
 
@@ -47,13 +47,13 @@ If you're ready to get fancy with this, then come back to your CV after you've r
 
    > A sidenote on meeting all of the requirements.
    >
-   > A lot of people don't want to apply for a job if they don't meet all of the requirements. Internal HP research and a further [related small study of this effect found on hbr](https://hbr.org/2014/08/why-women-dont-apply-for-jobs-unless-theyre-100-qualified) (paywall after a limit) indicates that this effect is more pronounced in women. 
+   > A lot of people don't want to apply for a job if they don't meet all of the requirements. Unpublished, but often cited, internal HP research and a further [related study of this effect *(partial paywall)*](https://hbr.org/2014/08/why-women-dont-apply-for-jobs-unless-theyre-100-qualified) indicates that this effect is more pronounced in women. 
    > 
    > It is, without doubt, the job of employers to ensure that their job descriptions accurately reflect their real requirements to encourage more women to apply. Gender bias is real, and is still a problem in our industry. I can't fix the job descriptions of other businesses today though, so here is my advice:
    >
    > If in doubt APPLY. If you get through to any stage of interview, and even if they reject you later, view this as valuable interview practice - a way of gaining experience - rather than a rejection. It's not a waste of your time to practice interviewing.
    > 
-   > I have never thought badly of a candidate who applied for a role that they weren't qualified for, even when I have removed everything but the absolutely neccessary requirements from the job description. 
+   > I have never thought badly of a candidate who applied for a role that they weren't qualified for, even when I have removed everything but the absolutely necessary requirements from the job description. 
 
 It's more impressive if you can relate your achievements in previous roles to real customer or business outcomes. Instead of "*Built and maintained websites with .NET*" you could say "*Built Acme Corp's first website to allow customers to order widgets online, in only N weeks, using .NET.*" This is longer, clearly, but I'd hire someone with two examples like this ahead of someone with a list of ten technologies that they've used without context. Use the space wisely.
 
@@ -63,7 +63,7 @@ You're aiming for 2 or 3 pages so that the hiring manager will read everything y
 
    > As you gain more experience it's a good idea to keep a separate "everything version" of your CV for yourself that just grows and grows forever. You can pick and choose which bits are relevant when tailoring a CV for a role you're applying for - and even if the old bits don't make it in to your submitted CV ever, it's helpful to have them around to remind yourself of your achievements before an interview.   
 
-Finally, once you think you're done, check your CV at least three times for spelling and grammatical errors. Use any tools available to you to help (Grammarly, Textio, even just Word) and then ask a few friends or colleagues to proof read it as well.
+Finally, once you think you're done, check your CV at least three times for spelling and grammatical errors. Use any tools available to you to help (like Grammarly, or even just Word) and then ask a few friends or colleagues to proof read it as well.
    
 **Send a covering letter.** 
    
