@@ -5,17 +5,17 @@ published: true
 tags: interviewing
 ---
 
+I know lots of people are unexpectedly being forced to look for new roles due to COVID-19. I can’t offer anyone a job right now, but I might be able to help you do better in your search, especially if you work in technology.
+
 I've interviewed hundreds of developers over the years, and have been successful myself interviewing for roles as a Developer, Architect, CTO and everything inbetween (and quite a lot more besides).
 
 This article is about all the parts of the process that I think are **most often overlooked** which you can learn and practice. To clarify with an example; I don't talk about coding interviews here, but that's because most people think about them already. I do talk about interview preparation at length because whilst people know about this, they seem not to do anything about it, and I have practical advice that would help.
 
-I've written this now because I know lots of folks are being forced to look for new roles unexpectedly due to COVID-19. I can't offer anyone a job, but I might be able to help you do better in your search.
-
-Fair warning - this is a long article! I considered splitting it in to multiple smaller ones, but there's a kind of circular dependency between your research for an interview and the actual process of getting an interview. You may find your research can improve your CV before applying, if you have the time for that.
+Fair warning - this is a long article! I considered splitting it in to multiple smaller ones, but there’s a kind of circular dependency between your research for an interview and the actual process of getting an interview. You may find your research on a company can improve your CV before applying, but if you get to interview you'll probably want to do even more.
 
 There are three sections; how to get an interview, how to research and prepare, and how to interview. The final section is the shortest because, like most things in life, good preparation will make the actual process much, much easier. 
 
-The most common theme I've seen is that people are often surprisingly unprepared for an interview (perhaps because they're not sure what things they can do to prepare) so there's a lot of detail in that section, but let's start a few steps before even that. Your very first touchpoint with a business can strongly stack the odds for or against you, long before you've even arrived.
+The most common theme I’ve seen is that people are often surprisingly unprepared for an interview (perhaps because they’re not sure what things they can do to prepare, which is how I'm hoping to help) so there’s a lot of detail in that section, but let’s start a few steps before even that. Your very first touchpoint with a business can strongly stack the odds for or against you, long before you’ve even been offered an interview.
 
 ## 1: How to get an interview, and improve your chances while you do.
 
@@ -25,19 +25,21 @@ If you're good at what you do, companies that are growing will do everything the
    
 Make sure you contact former colleagues and people you know to see if they know of any positions open. If they're about to start hiring, you might be able to skip the queue and apply before they've even opened the role.
 
+> This is still (perhaps especially) relevant during COVID-19. Lots of companies have paused hiring during this period because of the uncertainty, but when they restart, you want to be front of mind for hiring managers. If you're immediately available, you're at an advantage here.
+
 For roles that *are* being advertised already, the people you know can also be helpful in getting you to the front of the queue - it's much less risky as an employer to hire someone you know, or someone who your team will vouch for. 
    
 If you're just starting out in your career then this might be more tricky, but do check whether you know anyone that could help before skipping this one... did you go to college/university with anyone who could help?
 
-Even if you didn't know them very well, just some level of familiarity will really help. Big brands spend billions every year on advertising campaigns, some of which exist purely to bring that sense of familiarity so that you'll feel more drawn when you next see their logo and packaging - even if you've never tried their product you're more likely to buy one that you have heard of. This same effect can work in your favour when looking for a new role.
+Even if you didn’t know them very well, just some level of familiarity will really help. Big brands spend millions every year on advertising campaigns, and some are purely to bring a sense of familiarity so that you feel more drawn when you next see their logo. Even if you’ve never tried their product, you are more likely to buy one that you have heard of, over one that you haven't. Even if you hate that it works (which I do) this does work, and this same effect can be used in your favour when looking for a new role.
 
-Don't overcomplicate this. Your message can be as short as this:
+Don’t overthink this. Your message can be as short as:
 
    >*"Hi Jenny! How are things with you? I wondered whether they're looking for any [Developers] over there at [Acme Corp] at the minute, or whether you think they might be any time soon? I'm still enjoying life at [Rival Corp] but am starting to think it might be time for my next move soon!"*
       
 **Keep your CV interesting, and short.** 
    
-Writing long things is easy, writing short things is hard. That's why you're going to stand out if you do this well, and why this article is so long. *{cough}*
+Writing long things is easy, writing short things is hard. That’s why you’re going to stand out if you do this well (and why this article is so long {cough} ).
       
 Always remember: if you don't do the editing, then your reader will. They'll get bored and skip things, and you can guarantee they'll skip the good bits!
 
@@ -63,7 +65,7 @@ You're aiming for 2 or 3 pages so that the hiring manager will read everything y
 
    > As you gain more experience it's a good idea to keep a separate "everything version" of your CV for yourself that just grows and grows forever. You can pick and choose which bits are relevant when tailoring a CV for a role you're applying for - and even if the old bits don't make it in to your submitted CV ever, it's helpful to have them around to remind yourself of your achievements before an interview.   
 
-Finally, once you think you're done, check your CV at least three times for spelling and grammatical errors. Use any tools available to you to help (like Grammarly, or even just Word) and then ask a few friends or colleagues to proof read it as well.
+Finally, once you think you’re done, check your CV at least three times for spelling and grammatical errors. Use any tools available to you to help (like Grammarly, or even just Word) and then ask a few friends or colleagues to proof read it as well.
    
 **Send a covering letter.** 
    
@@ -89,19 +91,17 @@ Next, try to figure out how their products are built. Some of it will be listed 
    
 See if you can find any *previous* job openings that they've posted for other roles - you might find more about the makeup of the team, and how they work, from these.
 
-Previous job openings are normally relatively easy to find. Pick a sentence from the job description which you already have - a sentence that looks like it might get reused for other roles (eg "*Acme Corp is changing the world by intelligently solving the lack of widgets available online*"), and do a Google search for "that phrase all wrapped in quotes". More often than not, you'll find some other jobs they've posted in the past which featured that sentence. 
+Previous job openings are normally relatively easy to find. Pick a sentence from the job description that you already have - a sentence which looks like it might get reused for other roles (eg “Acme Corp is changing the world by intelligently solving the lack of widgets available online”), and do a Google search for that exact sentence (by wrapping it all in quotes). More often than not, you’ll find some other jobs they’ve posted in the past which featured that sentence.
 
-Research **all** of their social media channels, look for news articles about them, try to work out how they are funded, find out who is on their board of directors (and their individual histories) - go deep. Who are their competitors? What kind of marketing channels do they use (you can use a site like similarweb to see where they're getting traffic from, you might uncover some surprises). 
+Research **all** of their social media channels, look for news articles about them, try to work out how they are funded, find out who is on their board of directors (and their individual histories) - go deep. Who are their competitors? What kind of marketing channels do they use (you can use a site like similarweb to see where they’re getting traffic from)?
    
-You'll find lots of tedious dead-ends in this process, but it's a little bit like panning for gold - except you just need to mash your fingers on the keyboard for a bit rather than breaking your back with a pickaxe or whatever, and you'll turn up useless trivia that might get you a new job rather than rare metals. I'm not great at analogies, it turns out.
+You’ll find lots of tedious dead-ends in this process, but it’s a little bit like panning for gold - except you just need to mash your fingers on the keyboard and read for a bit rather than breaking your back with a pickaxe or whatever. And also you’ll turn up useless trivia that might get you a new job rather than rare metals. And you might not know in advance which ones are useful. I’m not great at analogies, it turns out.
    
-When you find things you cannot understand (there should be at least some - maybe some industry terms) write them down as questions - these are fantastic to take to interview. 
-   
-For everything you **can** understand, write it down in notes that make sense to you - review this several times before your interview. Most of this won't be useful until you start your job, but those one or two snippets of information you do use are worth all the effort of all the rest that you don't. 
+For everything you can understand, write it down in notes that make sense to you - review this several times before your interview. Lots of this won’t be useful until you start your job, but those one or two snippets of information you do use are worth all the effort of all the rest that you don’t; just like panning for gold (I will make this analogy fit, watch me).
    
 This is all about improving your chances - and if you get the chance to use some of this deep knowledge, you're really going to stand out.
 
-   > An example: during an interview I asked a candidate if they had any questions. They asked why, when I was hiring primarily for .NET developers and hadn't at any point mentioned PHP, was our public facing website built with PHP? They asked it in a genuinely curious tone, and clarified that they were trying to work out whether they would need to work with PHP in this role. 
+   > An example: during an interview I asked a candidate if they had any questions. They asked how it was, when I was hiring primarily for .NET developers and hadn’t at any point mentioned PHP, that our public facing website built with PHP? They asked it in a genuinely curious tone, and clarified that they were trying to work out whether they would need to work with PHP in this role.
    > 
    > My answer was tedious (and predictable - we used an agency for the site and rarely, if ever, touched it ourselves) but this question still sticks out in my memory and is exactly how to use your research to ask great questions. I knew they had done their research, I knew they were thinking about the skills that they would need to bring to the role, and I knew they had read and understood the job description.
 
@@ -125,6 +125,7 @@ Once you've done that, go outward from each of those listing:
 - New techniques or technologies you learned
 - Training you completed, awards you won, any other accolades
 - Specific technologies that you used in each role, even if only a little
+- Times when you had to plan, had to change your plan, or had to stick to one
 
 Nothing is too small, just keep it flowing as much as you can, and having multiple examples for everything is the goal. Use your "everything version" of your CV to make sure you don't miss any. Don't be afraid to make a mess, and add more experiences as you think of them too.
    
@@ -152,7 +153,7 @@ Again, write these down so that you can review them, and take them with you so t
     
 Maybe you already realise this, but many people seem not to; you are interviewing **them** as much as they are interviewing **you**, and you need to make your own decision as to whether this role is right for you. 
    
-Once you get to interview, if you ask a question that's anything more than just a general conversation starter, write down the answer! If nothing else it shows you're interested, but also it's really hard to recall everything that was said after an interview. If you go through to another stage then all of this can be joined together with your own research to build your knowledge of the company and the position you're applying for.
+Once you get to interview, if you ask a question that’s anything more than just a general conversation starter, write down the answer! If nothing else it shows you’re interested, but also it’s really hard to recall everything that was said after an interview. If you go through to another stage then all of these answers can be joined together with your research to build your knowledge of the company and the position you’re applying for.
    
 **Practice**
 
@@ -176,7 +177,7 @@ Whatever the interview type, make sure you have these:
     
 - The mind map of your personal experience you drew up earlier, to review on your own before you go in
 - Your list of questions for the interviewer
-- A pen and paper or notebook to make notes (especially for responses to your brilliant questions!)
+- A pen and paper or notebook (for notes - especially responses to your questions)
 - Appropriate clothing; if in doubt, dress smarter (and check you have all of it)
       
 **Check the arrangements** 
@@ -211,7 +212,7 @@ Make sure you listen carefully.
 
 If you get asked a particularly complicated question, consider writing it down before you answer. This will give you a little time in which to start thinking about your response, and also gives you something to check back on if you feel like you're not really answering the question. It's very common for people to give a really interesting anecdote in response to a question and then forget why - and they always look uncomfortable when they have to ask "sorry, what was the question?"
 
-Remember that you can pause to think! Don't be afraid to say "let me have a think about that for a second..." before giving your answer if it helps you. If you're trying to work out which of your examples is the best one to give - it's okay to say that, too: "I've had a couple of times where that's happened, I'm just trying to work out which is the most relevant here...." is totally fine.
+Remember that you can pause to think! Don’t be afraid to say “let me have a think about that for a second…” before giving your answer if it helps you. If you’re trying to work out which of your examples is the best one to give - it’s okay to say that, too: “I’ve had a couple of times where that’s happened, I’m just trying to work out which is the most relevant here….” is totally fine, and buys you some time if you're nervous.
 
 Finally, but possibly most importantly, don't be afraid to say, "I don't know". If you don't know the answer to a question then don't attempt to bluff your way out of it. A career in technology is really a career in learning; you should remember that you won't learn things from other people if you pretend that you already know. This advice goes for all times, not just interviews, but it's especially important in interviews because it's so very obvious in this setting when people try to bluff.
 
@@ -223,14 +224,14 @@ If you're ready for it; this one's entirely optional and won't always be success
 
 If you're going to ask for feedback, try to ask a very specific question. Rather than a very general "could you give me any feedback?" ask something like this: "if there were one area of my experience that you would improve to make me more ready for this role, what would it be?" 
       
-By framing the question in this way, you remove their awkwardness about highlighting something that you could improve (which could be considered a negative). Instead, they have to just pick the one that needs improvement the most - and they can comfort themselves with words like "but really, I'm nit-picking... and you did fine on that..." and now you'll know where you should focus some of your attention next time when preparing.
+By framing the question in this way, you remove their awkwardness about highlighting something that you could improve (which could be considered a negative). Instead, they can answer the question but comfort themselves with words like “but really, I’m nit-picking… and you did fine on that…” and now they feel okay about giving feedback, and you’ll know where you should focus some of your attention next time.
 
 **Thanks for reading**
 
 I hope you're successful in your search, and I'd love to hear about it if you found that any of this helped! 
 
-As a helping hand for readers who have got this far, during the COVID-19 lockdown I'd like to help some of you more directly with this; for up to 10 of you who respond to me directly on LinkedIn I'll be happy to review your CV, give you a mock telephone interview, or generally chat about the process - whatever you think would be most useful. 
+As a helping hand for readers who have got this far, during the COVID-19 lockdown I’d like to help some of you more directly with this. For up to 10 of you who contact me on LinkedIn (feel free to send me a message rather than a comment) I’d love to review your CV, give you a mock telephone interview, or generally chat about the process - whatever you think would be most useful in your situation.
 
-To clarify my intentions; I'm not recruiting right now, so please don't contact me with the expectation of a role! My goal is to help just a few of those many folks that are out of work right now - hopefully you'll pay it forward one day.
+To clarify my intentions; I’m not recruiting right now, so please don’t contact me with the expectation of a role, and I'm doing this in my own time - whatever advice and support I give does not reflect that of my employer! My goal is to help just a few of those many folks that are out of work right now - my hope is that you’ll pay it forward one day.
 
 Good luck!
