@@ -59,13 +59,13 @@ So now you have an inspiring big goal - something that you would be really proud
 
 To extend my earlier example of a marathon run, your Act Small goal could simply be to run 5 days a week. (Note that I said simply, not easily - that's a hard goal to do, but a simple one to understand). You don't even have to commit to a time or distance. Just run.
 
-Getting out of bed on a random rainy Tuesday morning to run may not be particularly inspiring to you, and nor will you have run a marathon once you've done it, but the combination of having done this every day for months is what's going to get you there - and making that explicit link for yourself between these smaller steps and the bigger goal that you're really trying to achieve might just be enough to get you out of bed a few more times, and that's what we're aiming for.
+Getting out of bed on a random rainy Tuesday morning to run may not be particularly inspiring to you, and nor will you have run a marathon once you've done it, but the combination of having done this every day for months is what's going to get you there! Making that explicit link for yourself between these smaller steps and the bigger goal that you're really trying to achieve might just be enough to get you out of bed a few more times, and that's what we're aiming for.
 
 Now before I lose 99% of folks who do not want to run a marathon and think this is overly simplistic for real work, let me talk about some more real world examples.
 
 **Back to reality**: it's 06:57 a.m. as I'm writing this sentence, and it's a Friday morning. I had a very, very tiring day yesterday and whilst I don't need an alarm to wake up at this time, being awake is not the same being productive. There's a reason I'm writing though, and that reason is 100% about my goal.
 
-As the COVID-19 outbreak hit I decided to find a way to help people in some small way. This was my Dream Big goal, to help others cope with the COVID-19 outbreak (note that my Dream Big did not need to be big for anyone else, I had no expectation of working on any meaningful part of the pandemic, but meaningful to me was just to help those around me cope with, move on through, or bounce back from the drastic changes that are happening). I wanted to help others in some yet unknown way. That wasn't a thing I could just do, but with that thought I started to look around for my Act Small goals. 
+As the COVID-19 outbreak hit I decided to find a way to help people in some small way. This was my Dream Big goal, to help others in some small way to cope with the COVID-19 outbreak. That wasn't a thing I could just do, but with that thought I started to look around for my Act Small goals. 
 
 My constraints were that I've got a full time job that I still need to do well (so I can't realistically take any time out of my working day) and I'm a single parent for half of the week (so there are quite a lot of times when I can't, and won't, do anything but be with my kids).
 
