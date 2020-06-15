@@ -5,8 +5,6 @@ published: true
 tags: goals career mental-health
 ---
 
-## Mental health is an important subject to me. This is an article about how I use goals today, how they helped fix me, and how you can use them too. 
-
 I use goals to find a sense of control and purpose, to stop me getting distracted, and to make sure I'm working on the right things in the first place.
 
 It wasn't always this way, and actually it took for me to reach absolute rock bottom before I started paying much attention to goals at all. I'm going to tell a little bit of that story here, and also I'm going to give some practical advice on the way that I set goals and break them down.
