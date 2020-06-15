@@ -37,7 +37,7 @@ Why? Because it forces you to commit - and by you, I mean everyone. From the CEO
 
 By contrast, the goals which I don't value at all are the ones which have forced no kind of commitment. This is normally the case when there are simply too many of them. It's very easy to reassure yourself with platitudes (but of course, we have enough people to work on all of these things... should we have people just sitting around?) but the truth is, having too many goals is largely the same as having no goals at all. When everything is important, nothing is.
 
-Hopefully I've sold the dream of having goals in a business setting to you, so maybe now we can start to talk about goals at a much more personal level. 
+Hopefully I've sold the dream of having goals in a business setting to you, so maybe now we can start to talk about goals at a much more personal level. You can use this same benefit of prioritisation and commitment in your own life, whether it's for the benefit of your career or for your own personal growth.
 
 I'd like to share with you how goals helped in my recovery from a debilitating mental health problem. But first, a little intro in to how I use goals now.
 
