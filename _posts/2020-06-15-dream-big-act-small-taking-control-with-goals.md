@@ -51,7 +51,7 @@ I think most people have had [SMART objectives](https://en.wikipedia.org/wiki/SM
 
 Often while trying to make goals SMART people water them down and make them less exciting - try not to do that for your own Dream Big goal, just make sure there's no room for you to kid yourself that you achieved it when you didn't.
 
-This shouldn't be something that you can **just do**. For example, you could set yourself a personal goal to run a marathon; you know for sure that no matter how hard you try you can't just get up and run a marathon tomorrow (or if you can, this is a pretty weak goal). That's the point of a goal - it's not a to do list. Another example might be to become a senior developer; it's an achievable goal, but not one that you can just do in one step.
+This goal shouldn't be something that you can **just do**. For example, you could set yourself a personal goal to run a marathon; you know for sure that no matter how hard you try you can't just get up and run a marathon tomorrow (or if you can, this is a pretty weak goal). That's the point of a goal - it's not a to do list. Another example might be to become a senior developer; it's an achievable goal, but not one that you can just do in one step.
 
 So now you have an inspiring big goal - something that you would be really proud to have achieved, but you also have a fairly obvious gap in that you can't actually do it. Now you need the next part!
 
@@ -65,7 +65,7 @@ Now before I lose 99% of folks who do not want to run a marathon and think this 
 
 **Back to reality**: it's 06:57 a.m. as I'm writing this sentence, and it's a Friday morning. I had a very, very tiring day yesterday and whilst I don't need an alarm to wake up at this time, being awake is not the same being productive. There's a reason I'm writing though, and that reason is 100% about my goal.
 
-As the COVID-19 outbreak hit I decided to find a way to help people in some small way. This was my Dream Big goal, to help others in some small way to cope with the COVID-19 outbreak. That wasn't a thing I could just do, but with that thought I started to look around for my Act Small goals. 
+As the COVID-19 outbreak hit I decided to find a way to help people. This was my Dream Big goal, to help others in some small way to cope with the COVID-19 outbreak. That wasn't a thing I could just do, but with that thought I started to look around for my Act Small goals. 
 
 My constraints were that I've got a full time job that I still need to do well (so I can't realistically take any time out of my working day) and I'm a single parent for half of the week (so there are quite a lot of times when I can't, and won't, do anything but be with my kids).
 
@@ -131,6 +131,8 @@ It was nearly a month before I felt able to do this consistently 3 times per day
 
 Eventually, I'd built myself up to doing 8 or 9 of these 25 minute blocks every day. I had learned how to produce parametric drawings using CAD software (Fusion360), how to use a laser cutter, a 3D printer, some more advanced electronics (all of which I did with the aid of my local hackspace - if you have one near you, they're amazing, support them!) and I ended up building some things that I look at now and feel proud of. These were the **side-effects** of my goal. They were not my goal, but they were evidence to me that I was improving. I was sticking to my "Act Small" plan and I could see myself concentrating often, the tangible output of that work fuelled me to keep going. The net result? Confidence. I could prove that I hadn't tricked myself in to believing I was improving. I could prove to myself that I wasn't as unwell as before. There was no doubt that I was getting better, and that confidence fuels itself. It's harder to stop when your progress is so obvious.
 
+This whole journey started with me joining two ends of the same wire together for 25 minutes. It continued for weeks with small steps that were equally mundane.
+
 The final result of all this was a Dream Big goal that I categorically achieved. I was able to work again. I'm stronger than I've ever been, and whilst I've had struggles along the way (mental health is never done, or finished) I haven't found myself in such a dark place for so long since. What's more, I learned a valuable lesson about how small things can compound to achieve big things.
 
 This was the birth of Dream Big, Act Small for me. I didn't call it that at the time, I couldn't find the right words until months later, but this is where it started.
@@ -149,7 +151,7 @@ If you're not in a good place, and you don't feel able to take on another challe
 
 If you are ready to try something new though, then set yourself a goal. **Dream Big**. Make it really ambitious - exciting but scary. Then break it in to tiny, miniscule, embarrassingly small things that you believe will help achieve that, and which you know you can do today. **Act Small**. Keep doing those small things every day. Embrace the work, and learn to enjoy the journey, not just the outcome. 
 
-Looking for a promotion in your career? Look for people who have done it before - and set an Act Small goal of asking one person for specific advice on something you'd like to improve every week. Want to improve your skill as a developer? Complete 30 minutes of online training every day/week/whatever in a language you don't know. If you use a computer everyday then it's always useful to be a faster typist, why not practice with typing games every day? Want to improve your communication skills? Write every day. Publish or present one of the things that you wrote once a month. Can't think of a goal, but have a vague idea of what you want to do? Give me a shout, it's my goal to help you.
+Looking for a promotion in your career? Look for people who have done it before - and set an Act Small goal of asking one person for specific advice on something you'd like to improve every week. Want to improve your skill as a developer? Complete 30 minutes of online training every day/week/whatever in a language you don't know. Learn to touch type. Want to improve your communication skills? Write every day. Publish or present one of the things that you wrote once a month. Can't think of a goal, but have a vague idea of what you want to do? Give me a shout, it's my goal to help you.
 
 It's my hope that you can use goals like this to help you on some small part of your own journey, whether you're finding a way to recover lost momentum, trying to improve your performance, or just looking to find a sense of control of the world around you. 
 
