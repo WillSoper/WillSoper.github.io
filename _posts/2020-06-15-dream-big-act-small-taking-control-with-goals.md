@@ -1,4 +1,9 @@
-# Taking control with goals. Dream Big. Act Small.
+---
+layout: post
+title: Taking control with goals. Dream Big. Act Small.
+published: true
+tags: goals career mental-health
+---
 
 ## Mental health is an important subject to me. This is an article about how I use goals today, how they helped fix me, and how you can use them too. 
 
