@@ -71,4 +71,4 @@ In case there’s **any doubt at all**, stick to the title of this section and j
 
 I recently wrote an article about how I used goals to help my recovery; it’s longer than this one, but if you’re interested in mental health, or using goals to improve your performance, you’ll probably find this one interesting:
 
-[Taking control with goals. Dream Big. Act Small.](https:/willsoper.github.io/2020/06/15/dream-big-act-small-taking-control-with-goals/)
+[Taking control with goals. Dream Big. Act Small.](2020/06/15/dream-big-act-small-taking-control-with-goals/)
