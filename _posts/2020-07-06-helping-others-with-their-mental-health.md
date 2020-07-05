@@ -5,7 +5,7 @@ published: true
 tags: mental-health
 ---
 
-![Helping others with their mental health; including "help" icon by Supalerk Laipawat from the Noun Project](https://willsoper.github.io/public/HelpingOthers.jpg)
+![Image: Helping others with their mental health; including "help" icon by Supalerk Laipawat from the Noun Project](https://willsoper.github.io/public/HelpingOthers.png)
 
 Someone recently called me to ask for advice. They have a friend who is struggling with mental health problems, and they wanted to know what would be the best way to help.
 
