@@ -15,10 +15,10 @@ Being around someone with stress, anxiety or depression can leave you feeling tr
 
 These are in priority order, with most important first.
 
-1) You are not responsible for their illness.
-2) Encourage them to seek qualified help.
-3) Check in regularly.
-4) Don’t offer advice.
+1. You are not responsible for their illness.
+2. Encourage them to seek qualified help.
+3. Check in regularly.
+4. Don’t offer advice.
 
 # One: You are not responsible for their illness.
 It’s wonderful, perhaps even critical, to have friends, family or colleagues around you who care. If you’re reading this trying to work out how you might help someone, know that just caring is a big deal. 
