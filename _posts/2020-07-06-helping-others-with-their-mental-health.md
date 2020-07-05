@@ -9,9 +9,14 @@ Someone recently called me to ask for advice. They have a friend who is struggli
 
 I see plenty written for people who are directly suffering, but not so much for those around them, which is kind of a problem as mental health can be a pretty daunting subject when you don’t have any knowledge of it! 
 
-Being around someone with stress, anxiety or depression can leave you feeling trapped; you don’t want to say the wrong thing in case you accidentally make things worse, but you also don’t want to nothing, in case that makes it worse too! I thought writing down the best advice I could come up with would be a good start. I tried to keep it short so it’s easy to remember. 
+Being around someone with stress, anxiety or depression can leave you feeling trapped; you don’t want to say the wrong thing in case you accidentally make things worse, but you also don’t want to do nothing, in case that makes it worse too! I thought writing down the best advice I could come up with would be a good start. I tried to keep it short so it’s easy to remember. 
 
 These are in priority order, with most important first.
+
+1) You are not responsible for their illness.
+2) Encourage them to seek qualified help.
+3) Check in regularly.
+4) Don’t offer advice.
 
 # One: You are not responsible for their illness.
 It’s wonderful, perhaps even critical, to have friends, family or colleagues around you who care. If you’re reading this trying to work out how you might help someone, know that just caring is a big deal. 
