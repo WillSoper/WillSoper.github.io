@@ -54,7 +54,7 @@ Stuck for words? Try “Hey, how are you doing?” - no need to get complicated.
 
 # Four: Don’t offer advice.
 
-This section title is slightly misleading, but I’m catering for people who skim read.
+The title of this section is slightly misleading, but I’m catering for people who skim read.
 
 Be **very** careful with this final one. It’s last for a very good reason, and you’ll have to use your judgement to know whether you’re going to be well received or not. Some people, or even just some of the time, will feel judged or that you’re minimising their illness if you try to offer any kind of direct practical support. **If in doubt, don’t do this.** Just being there is more than enough. 
 
@@ -64,7 +64,7 @@ If you have a good relationship with this person, you understand their situation
 2. Diet (and avoid alcohol like the plague)
 3. Exercise (just a walk is good, whatever they can do)
 
-The way to think about these is like a minimum standard. Getting them “more right” won’t make any difference, and you can’t expect cure mental health issues just by doing these things, but if you **aren’t** able to get these things right then everything else is going to be much much harder.
+The way to think about these is like a minimum standard. Getting them “more right” won’t make any difference, and you can’t expect to cure mental health issues just by doing these things, but if you **aren’t** able to get these things right then everything else is going to be much much harder.
 
 There are some important things to note:
 
