@@ -61,7 +61,7 @@ Be **very** careful with this final one. It’s last for a very good reason, and
 If you have a good relationship with this person, you understand their situation well, and you’re very confident that your words will be well received, then encourage them to make sure they’ve hit all of these basics:
 
 1. Sleep (8 hours, yes really)
-2. Diet (and avoid alcohol like the plague)
+2. Eat well (and avoid alcohol - it's a depressent)
 3. Exercise (just a walk is good, whatever they can do)
 
 The way to think about these is like a minimum standard. Getting them “more right” won’t make any difference, and you can’t expect to cure mental health issues just by doing these things, but if you **aren’t** able to get these things right then everything else is going to be much much harder.
