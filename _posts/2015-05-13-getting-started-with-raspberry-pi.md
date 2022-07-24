@@ -6,7 +6,7 @@ tags:
 - raspberrypi
 ---
 
-##What you'll need:
+## What you'll need:
 
 - Raspberry Pi (I'm using the version 2)
 - 8GB MicroSD card (or bigger)
@@ -27,9 +27,9 @@ I've also used the following software, because I'm on Windows:
 
 I explain what each software tool is as it is used in the guide.
 
-##What to do:
+## What to do:
 
-###Download and install Raspbian on to the MicroSD card
+### Download and install Raspbian on to the MicroSD card
 
 You can find up to date instructions for installing an operating system on the [Raspberry Pi website](https://www.raspberrypi.org/). 
 
@@ -45,7 +45,7 @@ I'm using Windows to prepare my SD card, and on the Raspberry Pi Website you can
 - Select the Raspbian image that you downloaded, and the drive letter of the SD card you inserted (be careful - you're going to irreversibly overwrite which ever drive you select!)
 - Click 'Write', wait for the disk imager to finish, Exit the application, and Eject the card
 
-###Turn on the Pi, find your IP address
+### Turn on the Pi, find your IP address, set a static IP
 
 You'll need to put the SD card that you just wrote in to the Raspberry Pi, and then turn it on. Now, you need to get connected to it! 
 
@@ -64,7 +64,7 @@ There are lots of ways to find the IP address of your Pi , but I prefer to do th
 
 Once you've assigned a static IP address, you'll always know what your Raspberry Pi IP address is!
 
-###Connecting to your Pi with SSH
+### Connecting to your Pi with SSH
 
 I'm on Windows, and it doesn't have an SSH client installed by default. My preference is to use tools that don't require much installation or configuration, and so I use the standalone executable version of [PuTTY](http://www.chiark.greenend.org.uk/~sgtatham/putty/download.html). 
 
@@ -72,7 +72,7 @@ Once you've opened PuTTY - enter the IP address that you found for your raspberr
 
 The default username is `pi` and the default password is `raspberry` - the very next step that we need to take is to change that!
 
-###Change default credentials, edit hostname, update
+### Change default credentials, edit hostname, update
 
 Once you're connected to the Pi, things get a lot easier. If you're not met with a blue and grey configuration screen already, then the first command you should execute is:
 
@@ -90,7 +90,7 @@ Once you've done all that, the next step is to update all of your packages and t
 
 This is actually two commands combined, (update and dist-upgrade), if you're interested, you can read more about them by executing `man apt-get`, but in a nutshell they make sure that you've got all the latest versions of the default software; it's important to do that now, because those updates will include security fixes.
 
-###And finally... connecting to Wi-Fi
+### And finally... connecting to Wi-Fi
 
 We used a wired ethernet connection above to get connected to the Pi, but Raspbian has built in support for Wi-Fi connections. There are a number of ways to do this, but I'm only going to give details for using the command line at this point (because we're using SSH!) - there are simple [guides for configuring Wi-Fi on the Raspberry Pi website](https://www.raspberrypi.org/documentation/configuration/wireless/) should you wish to do it using a GUI instead.
 
